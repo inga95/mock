@@ -1,0 +1,23 @@
+body {
+    background-color: #292C33;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#welcome {
+    font-size: 70px;
+}
+
+#login {
+    color: white;
+    text-decoration: none;
+    background-color: #076df7;
+    padding: 1em 1.5em;
+    border-radius: 15px;
+}
+
+
+

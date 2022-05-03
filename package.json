@@ -22,5 +22,8 @@
   "homepage": "https://github.com/inga95/mock#readme",
   "devDependencies": {
     "concurrently": "^7.1.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.2"
   }
 }
